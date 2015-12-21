@@ -1,12 +1,10 @@
 ---
-title: "Template Vignette"
+title: "Spatial Statistics in R"
 ---
 
 # Introduction
 
-Explain the purpose of the vignette.  
-Give a brief explanation of the questions that will be answered and some background information.
-These vignettes are written in [Rmarkdown](http://rmarkdown.rstudio.com). You can find [details about markdown here](http://rmarkdown.rstudio.com/authoring_basics.html) and [details about code chunks here](http://rmarkdown.rstudio.com/authoring_rcodechunks.html).
+This is a vignette to analyse spatial statistics in R.
 
 # Assumptions
 

@@ -39,6 +39,7 @@ all: clean html
 SUBDIRS  := use install develop
 export BUILDDIR := $(CURDIR)/build
 export DATADIR  := $(CURDIR)/data
+export IMAGEDIR := $(CURDIR)/images
 export REPODIR  := $(CURDIR)
 
 html test: cpsources $(SUBDIRS)
